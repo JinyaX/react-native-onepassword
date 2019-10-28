@@ -22,7 +22,8 @@
   },
   "devDependencies": {},
   "peerDependencies": {
-    "react-native": "^0.x"
+    "react": "^16.0",
+    "react-native": ">=0.60 <0.62"
   },
   "keywords": [
     "react-native-component",
